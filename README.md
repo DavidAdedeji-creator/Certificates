@@ -1,2 +1,2 @@
 # Certificates
-A collection of certificates earned from professional job simulations and courses, including Deloitte, Quantium, Data Camp and Anthropic Academy — part of my data analyst portfolio journey.
+This repository houses certificates from job simulations and courses I've completed as part of my transition into data analytics, including Deloitte's Data Analytics simulation, Quantium's Data Analytics simulation, and Anthropic's AI Fluency course. It serves as a verifiable record of continuous learning alongside my project-based portfolio work.
